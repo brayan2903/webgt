@@ -1,0 +1,1 @@
+import{aw as r}from"./index-DqExWMqt.js";import{H as u,B as t,C as a}from"./app-5TOWMTuP.js";function v(){const e=u({});let s=null;const n=r();return t(()=>{s=n.value.subscribe(o=>{e.value=o})}),a(()=>{n.value.unsubscribe(s)}),e}export{v as u};
